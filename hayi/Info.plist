@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb231315718026420</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAppID</key>
+	<string>231315718026420</string>
+	<key>FacebookDisplayName</key>
+	<string>Hayi</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Access your Photo</string>
+	<key>NSCameraUsageDescription</key>
+	<string>To take pictures which you can share with your community</string>
+	<key>NSLocationUsageDescription</key>
+	<string>${PRODUCT_NAME} always location use to verify your neighbourhood</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location will be used to verify the neigbourhood that you belong to. And show your neighbourhood on interactive map</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To take pictures which you can share with your community</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>OpenSans-Italic.ttf</string>
+		<string>OpenSans-SemiboldItalic.ttf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-BoldItalic.ttf</string>
+		<string>OpenSans-ExtraBold.ttf</string>
+		<string>OpenSans-ExtraBoldItalic.ttf</string>
+		<string>OpenSans-Light.ttf</string>
+		<string>OpenSans-LightItalic.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-Semibold.ttf</string>
+		<string>Montserrat-Black.otf</string>
+		<string>Montserrat-BlackItalic.otf</string>
+		<string>Montserrat-Bold.otf</string>
+		<string>Montserrat-BoldItalic.otf</string>
+		<string>Montserrat-ExtraLight.otf</string>
+		<string>Montserrat-ExtraLightItalic.otf</string>
+		<string>Montserrat-Italic.otf</string>
+		<string>Montserrat-Light.otf</string>
+		<string>Montserrat-LightItalic.otf</string>
+		<string>Montserrat-Medium.otf</string>
+		<string>Montserrat-MediumItalic.otf</string>
+		<string>MontserratAlternates-ThinItalic.otf</string>
+		<string>Montserrat-Regular.otf</string>
+		<string>Montserrat-SemiBold.otf</string>
+		<string>Montserrat-SemiBoldItalic.otf</string>
+		<string>Montserrat-Thin.otf</string>
+		<string>Montserrat-ThinItalic.otf</string>
+		<string>MontserratAlternates-Black.otf</string>
+		<string>MontserratAlternates-BlackItalic.otf</string>
+		<string>MontserratAlternates-Bold.otf</string>
+		<string>MontserratAlternates-BoldItalic.otf</string>
+		<string>MontserratAlternates-ExtraBold.otf</string>
+		<string>MontserratAlternates-ExtraBoldItalic.otf</string>
+		<string>MontserratAlternates-ExtraLight.otf</string>
+		<string>MontserratAlternates-ExtraLightItalic.otf</string>
+		<string>MontserratAlternates-Italic.otf</string>
+		<string>MontserratAlternates-Light.otf</string>
+		<string>MontserratAlternates-LightItalic.otf</string>
+		<string>MontserratAlternates-Medium.otf</string>
+		<string>MontserratAlternates-MediumItalic.otf</string>
+		<string>MontserratAlternates-Regular.otf</string>
+		<string>MontserratAlternates-SemiBold.otf</string>
+		<string>MontserratAlternates-SemiBoldItalic.otf</string>
+		<string>MontserratAlternates-Thin.otf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>113090359810-j8mgdetu5nsriuuk84is44d69kc9nj0n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.113090359810-j8mgdetu5nsriuuk84is44d69kc9nj0n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>113090359810-jcndctjfvdkrfjis06vb8p74bdrhiq5u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqLFem5e17hTx4C1CvQ1QgDhqsCqSvkXE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>113090359810</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>test.hayi.app</string>
+	<key>PROJECT_ID</key>
+	<string>dev-hayi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dev-hayi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:113090359810:ios:8a4a3cb25cea1bbbeb2d1b</string>
+	<key>DATABASE_URL</key>
+	<string>https://dev-hayi.firebaseio.com</string>
+</dict>
+</plist>
